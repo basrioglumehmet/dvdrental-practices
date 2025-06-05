@@ -1,0 +1,6 @@
+/*
+
+TABLODA DEĞİŞİKLİK YAPMAK İÇİN KULLANILIR
+ALTER TABLE <tablo_adı> ALTER COLUMN <sütun_adı>
+SET NOT NULL;
+*/
